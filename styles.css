@@ -1,0 +1,18 @@
+img {
+    height: 200px;
+}
+.paw{
+background-color: lightblue;
+border:10px solid blue;
+margin: 5px;
+padding: 10px;
+}
+.troy{
+background-color: lightgreen;
+border: 10px solid green;
+margin: 5px;
+padding: 10px;
+}
+.dogs{
+border:10px;
+}
